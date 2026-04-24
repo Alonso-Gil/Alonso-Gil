@@ -1,6 +1,6 @@
 # Hi, I'm Alonso 👋
 
-📍 Mexico 🇲🇽 | Frontend & Mobile Engineer
+📍 Mexico 🇲🇽 | Frontend & Mobile Engineer  
 ⚛️ React · React Native · Expo · Next.js · TypeScript  
 🚀 Building scalable web and mobile products  
 
